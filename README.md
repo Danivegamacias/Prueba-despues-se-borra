@@ -3,4 +3,4 @@ hola
 
 #Encabezado
 
-[Hola](https://github.com/Danivegamacias/Prueba-despues-se-borra.git)
+[Hola](https://raw.githubusercontent.com/Danivegamacias/Prueba-despues-se-borra/refs/heads/main/resumen-superficie-texturas-muro-piedra-hormigon-blanco_74190-8189.avif)
